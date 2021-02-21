@@ -16,5 +16,10 @@ namespace PruebaGitHub
         {
             InitializeComponent();
         }
+
+        private void btnHola_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hola Clase!!");
+        }
     }
 }
