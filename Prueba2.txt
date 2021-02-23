@@ -1,3 +1,11 @@
 Este fichero lleva información muy importante
 pero tela de importante
-CURRO CALVO
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+modificacion en clase
+=======
+
+Hola me llamo FranciscoManuéh
+>>>>>>> e06cc6ba74d5913f48adb3496d62d9a4069210b8
+>>>>>>> fe243b4fa07bbc19bc230c4ac61e03a0d9ae40e0
