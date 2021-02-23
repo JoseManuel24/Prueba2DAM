@@ -47,7 +47,7 @@ namespace PruebaGitHub
             // 
             // btnHola
             // 
-            this.btnHola.Location = new System.Drawing.Point(124, 126);
+            this.btnHola.Location = new System.Drawing.Point(42, 38);
             this.btnHola.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnHola.Name = "btnHola";
             this.btnHola.Size = new System.Drawing.Size(149, 54);
@@ -58,7 +58,7 @@ namespace PruebaGitHub
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(337, 126);
+            this.button2.Location = new System.Drawing.Point(265, 38);
             this.button2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(149, 54);
@@ -68,7 +68,7 @@ namespace PruebaGitHub
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(556, 126);
+            this.button3.Location = new System.Drawing.Point(412, 126);
             this.button3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(149, 54);
@@ -78,7 +78,7 @@ namespace PruebaGitHub
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(779, 126);
+            this.button4.Location = new System.Drawing.Point(920, 50);
             this.button4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(149, 54);
@@ -88,7 +88,7 @@ namespace PruebaGitHub
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(124, 225);
+            this.button5.Location = new System.Drawing.Point(255, 249);
             this.button5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(149, 54);
@@ -98,7 +98,7 @@ namespace PruebaGitHub
             // 
             // button6
             // 
-            this.button6.Location = new System.Drawing.Point(337, 225);
+            this.button6.Location = new System.Drawing.Point(707, 69);
             this.button6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(149, 54);
@@ -108,7 +108,7 @@ namespace PruebaGitHub
             // 
             // button7
             // 
-            this.button7.Location = new System.Drawing.Point(556, 225);
+            this.button7.Location = new System.Drawing.Point(522, 38);
             this.button7.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(149, 54);
@@ -118,7 +118,7 @@ namespace PruebaGitHub
             // 
             // button8
             // 
-            this.button8.Location = new System.Drawing.Point(779, 225);
+            this.button8.Location = new System.Drawing.Point(647, 150);
             this.button8.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(149, 54);
@@ -129,7 +129,7 @@ namespace PruebaGitHub
             // 
             // button9
             // 
-            this.button9.Location = new System.Drawing.Point(124, 332);
+            this.button9.Location = new System.Drawing.Point(55, 198);
             this.button9.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(149, 54);
@@ -139,7 +139,7 @@ namespace PruebaGitHub
             // 
             // button10
             // 
-            this.button10.Location = new System.Drawing.Point(337, 332);
+            this.button10.Location = new System.Drawing.Point(255, 126);
             this.button10.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(149, 54);
@@ -149,7 +149,7 @@ namespace PruebaGitHub
             // 
             // button11
             // 
-            this.button11.Location = new System.Drawing.Point(356, 416);
+            this.button11.Location = new System.Drawing.Point(854, 150);
             this.button11.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button11.Name = "button11";
             this.button11.Size = new System.Drawing.Size(149, 54);
@@ -159,7 +159,7 @@ namespace PruebaGitHub
             // 
             // button12
             // 
-            this.button12.Location = new System.Drawing.Point(316, 487);
+            this.button12.Location = new System.Drawing.Point(72, 376);
             this.button12.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button12.Name = "button12";
             this.button12.Size = new System.Drawing.Size(149, 54);
