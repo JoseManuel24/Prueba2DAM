@@ -21,5 +21,10 @@ namespace PruebaGitHub
         {
             MessageBox.Show("Hola Clase!!");
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Era un domingo en la tardeee y fui a los coches de choqueeeee, TIRORIRORIRORIIIII!!");
+        }
     }
 }
