@@ -22,10 +22,20 @@ namespace PruebaGitHub
             MessageBox.Show("Hola Clase!!");
         }
 
+<<<<<<< HEAD
         private void button4_Click(object sender, EventArgs e)
         {
             //Mensaje aleatorio que se muestra al hacer click sobre el botón 4.
             MessageBox.Show("Hola, qué tal. Wenas tarde.");
+=======
+        private void button7_Click(object sender, EventArgs e)
+        {
+
+            MessageBox.Show("Ayy mi madre el bicho");
+
+            this.BackgroundImage = Image.FromFile(@"C:\Git\PruebaGitHub\Imgs\guiza.jpg");
+         
+>>>>>>> IgnacioHergueta
         }
     }
 }
