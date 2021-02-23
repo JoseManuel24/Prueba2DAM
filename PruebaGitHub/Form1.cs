@@ -39,7 +39,7 @@ namespace PruebaGitHub
         private void pictureBox1_Click(object sender, EventArgs e)
         {
 
-
+        }
             private void button7_Click(object sender, EventArgs e)
             {
 
@@ -49,6 +49,11 @@ namespace PruebaGitHub
 
 
             }
+
+        private void button12_Click(object sender, EventArgs e)
+        {
+
         }
+    }
     }
 
