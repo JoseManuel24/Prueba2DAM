@@ -149,8 +149,9 @@ namespace PruebaGitHub
             this.button12.Name = "button12";
             this.button12.Size = new System.Drawing.Size(112, 44);
             this.button12.TabIndex = 11;
-            this.button12.Text = "button12";
+            this.button12.Text = "buttonNatalia";
             this.button12.UseVisualStyleBackColor = true;
+            this.button12.Click += new System.EventHandler(this.button12_Click);
             // 
             // Form1
             // 
