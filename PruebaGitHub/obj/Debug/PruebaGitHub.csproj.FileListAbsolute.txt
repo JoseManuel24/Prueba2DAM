@@ -10,14 +10,4 @@ C:\Git\PruebaGitHub\obj\Debug\PruebaGitHub.csproj.CoreCompileInputs.cache
 C:\Git\PruebaGitHub\obj\Debug\PruebaGitHub.exe
 C:\Git\PruebaGitHub\obj\Debug\PruebaGitHub.pdb
 =======
-C:\GIT\PruebaGitHub\bin\Debug\PruebaGitHub.exe.config
-C:\GIT\PruebaGitHub\bin\Debug\PruebaGitHub.exe
-C:\GIT\PruebaGitHub\bin\Debug\PruebaGitHub.pdb
-C:\GIT\PruebaGitHub\obj\Debug\PruebaGitHub.csprojAssemblyReference.cache
-C:\GIT\PruebaGitHub\obj\Debug\PruebaGitHub.Form1.resources
-C:\GIT\PruebaGitHub\obj\Debug\PruebaGitHub.Properties.Resources.resources
-C:\GIT\PruebaGitHub\obj\Debug\PruebaGitHub.csproj.GenerateResource.cache
-C:\GIT\PruebaGitHub\obj\Debug\PruebaGitHub.csproj.CoreCompileInputs.cache
-C:\GIT\PruebaGitHub\obj\Debug\PruebaGitHub.exe
-C:\GIT\PruebaGitHub\obj\Debug\PruebaGitHub.pdb
 >>>>>>> 5e3328539d2833972f4ab9a83f59c664b7339ffd
