@@ -19,7 +19,7 @@ namespace PruebaGitHub
 
         private void btnHola_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola Clase!!");
+            MessageBox.Show("Hola Clase!!!");
         }
     }
 }
