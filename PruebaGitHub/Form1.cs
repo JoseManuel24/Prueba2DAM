@@ -21,5 +21,10 @@ namespace PruebaGitHub
         {
             MessageBox.Show("Hola Clase!!");
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hola soy el boton de jaime");
+        }
     }
 }
