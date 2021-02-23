@@ -25,6 +25,14 @@ namespace PruebaGitHub
         private void button8_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Atun con tomate");
+            pictureBox1.Image = Image.FromFile("C:/GIT/descarga.jpg");
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            
+
         }
     }
 }
