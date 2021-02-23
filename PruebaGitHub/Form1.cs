@@ -33,6 +33,7 @@ namespace PruebaGitHub
         {
             MessageBox.Show("Atun con tomate");
             pictureBox1.Image = Image.FromFile("C:/GIT/descarga.jpg");
+            pictureBox2.Image = Image.FromFile("C:/GIT/shrek.jpg");
 
         }
 
