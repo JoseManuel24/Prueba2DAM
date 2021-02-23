@@ -22,20 +22,38 @@ namespace PruebaGitHub
             MessageBox.Show("Hola Clase!!!");
         }
 
-<<<<<<< HEAD
+
         private void button4_Click(object sender, EventArgs e)
         {
-            //Mensaje aleatorio que se muestra al hacer click sobre el botón 4.
+
             MessageBox.Show("Hola, qué tal. Wenas tarde.");
-=======
-        private void button7_Click(object sender, EventArgs e)
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Atun con tomate");
+            pictureBox1.Image = Image.FromFile("C:/GIT/descarga.jpg");
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
         {
 
-            MessageBox.Show("Ayy mi madre el bicho");
+        }
+            private void button7_Click(object sender, EventArgs e)
+            {
 
-            this.BackgroundImage = Image.FromFile(@"C:\Git\PruebaGitHub\Imgs\guiza.jpg");
-         
->>>>>>> IgnacioHergueta
+                MessageBox.Show("Ayy mi madre el bicho");
+
+                this.BackgroundImage = Image.FromFile(@"C:\Git\PruebaGitHub\Imgs\guiza.jpg");
+
+
+            }
+
+        private void button12_Click(object sender, EventArgs e)
+        {
+
         }
     }
-}
+    }
+
