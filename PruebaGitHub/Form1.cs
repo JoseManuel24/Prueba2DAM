@@ -27,6 +27,7 @@ namespace PruebaGitHub
         {
 
             MessageBox.Show("Hola, qué tal. Wenas tarde.");
+        }
 
         private void button8_Click(object sender, EventArgs e)
         {
@@ -37,16 +38,17 @@ namespace PruebaGitHub
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-            
 
-        private void button7_Click(object sender, EventArgs e)
-        {
 
-            MessageBox.Show("Ayy mi madre el bicho");
+            private void button7_Click(object sender, EventArgs e)
+            {
 
-            this.BackgroundImage = Image.FromFile(@"C:\Git\PruebaGitHub\Imgs\guiza.jpg");
-         
+                MessageBox.Show("Ayy mi madre el bicho");
 
+                this.BackgroundImage = Image.FromFile(@"C:\Git\PruebaGitHub\Imgs\guiza.jpg");
+
+
+            }
         }
     }
-}
+
