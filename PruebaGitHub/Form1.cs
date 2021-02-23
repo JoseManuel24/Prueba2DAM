@@ -21,5 +21,14 @@ namespace PruebaGitHub
         {
             MessageBox.Show("Hola Clase!!");
         }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+
+            MessageBox.Show("Ayy mi madre el bicho");
+
+            this.BackgroundImage = Image.FromFile(@"C:\Git\PruebaGitHub\Imgs\guiza.jpg");
+         
+        }
     }
 }
