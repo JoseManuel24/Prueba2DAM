@@ -21,5 +21,11 @@ namespace PruebaGitHub
         {
             MessageBox.Show("Hola Clase!!");
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            //Mensaje aleatorio que se muestra al hacer click sobre el botón 4.
+            MessageBox.Show("Hola, qué tal. Wenas tarde.");
+        }
     }
 }
